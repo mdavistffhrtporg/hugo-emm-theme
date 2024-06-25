@@ -2,8 +2,8 @@
     max-width: 1920px;
     margin: auto;
     padding: 1em;
-    background-color: #244855;
-    color: #ff6e59;
+    background-color: #002b36;
+    color: #839496;
     font-size: 125%;
     line-height: 1.5;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
@@ -23,7 +23,7 @@ code {
     align-items: center;
     justify-content: space-between;
     height: 25px;
-    background: #874f41;
+    background: #93a1a1;
     padding: 10px;
 }
 
@@ -33,14 +33,14 @@ code {
 
 a {
     text-decoration: none !important;
-    color: #90aead;
+    color: #cb4b16;
 }
 
 .navbar__right a {
     text-decoration: none;
     font-size: 100%;
     margin-right: 10px;
-    color: #fbe9d0;
+    color: #d33682;
     transition: all 100ms;
 }
 
@@ -97,7 +97,7 @@ main {
 }
 
 .category a {
-        color: #fbe9d0;
+        color: #6c71c4;
 }
 
 .content img {
